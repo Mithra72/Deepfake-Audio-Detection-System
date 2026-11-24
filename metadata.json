@@ -1,0 +1,6 @@
+{
+  "name": "Deepfake Audio Detection System",
+  "description": "Cybersecurity forensic audio analysis platform detecting AI-generated voice, voice cloning, and acoustic manipulation using CNN spectrogram modeling, MFCC feature extraction, and segment-level forensics.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
